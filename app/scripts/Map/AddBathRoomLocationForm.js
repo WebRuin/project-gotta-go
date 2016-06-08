@@ -1,4 +1,5 @@
-var formData = './formData.json';
+var React = window.React = require('react'),
+    formData = './formData.json';
 
 var AddBathroomLocationForm = React.createClass({
 
